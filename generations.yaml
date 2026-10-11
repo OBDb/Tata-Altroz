@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Tata_Altroz"
+
+generations:
+  - name: "First Generation"
+    start_year: 2020
+    end_year: null
+    description: "A hatchback on the ALFA platform, with 1.2 L gasoline, 1.5 L diesel and electric versions."
